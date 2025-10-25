@@ -34,7 +34,6 @@ Atuo na criação de **pipelines ETL/ELT** em Python e SQL, **modelos analítico
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)  
-- [GitHub](https://github.com/seu-usuario)
 - [Portifólio Power BI](https://sites.google.com/view/victormoraisp/p%C3%A1gina-inicial)
 - E-mail: victor_morais@yahoo.com.br
 

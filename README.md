@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Profissional de dados com 4+ anos em instituições financeiras, fintechs e setor público, unindo contabilidade, backoffice e análise de dados. Crio pipelines de ETL em Python/SQL, modelos analíticos e dashboards de BI que elevam a qualidade dos dados, reduzem retrabalho e aceleram a tomada de decisão. Forte atuação em ambientes ágeis (Scrum) e nuvens GCP, AWS e Snowflake.</p>
+<p align="left">Profissional de dados com 4+ anos em instituições financeiras, fintechs e setor público, unindo contabilidade, backoffice e análise de dados. Crio pipelines de ETL/ELT em Python/SQL, modelos analíticos e dashboards de BI que elevam a qualidade dos dados, reduzem retrabalho e aceleram a tomada de decisão. Forte atuação em ambientes ágeis (Scrum) e nuvens GCP, AWS e Snowflake.</p>
 
 ###
 

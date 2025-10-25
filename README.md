@@ -1,41 +1,40 @@
-<h1 align="left">Olá 👋 tudo bem?</h1>
+# 👋 Olá, eu sou Victor
 
-###
+<p align="left">Analista de Dados | Belo Horizonte/MG | 4+ anos de experiência em instituições financeiras, fintechs e setor público</p>
 
-<p align="left">Meu nome é Victor, sou um analista de dados, moro em Belo Horizonte/MG.</p>
+---
 
-###
+## 🧩 Sobre mim
 
-<h2 align="left">Sobre mim</h2>
+Profissional de dados com experiência em **contabilidade, backoffice e análise de dados**.  
+Atuo na criação de **pipelines ETL/ELT** em Python e SQL, **modelos analíticos** e **dashboards de BI** que melhoram a qualidade dos dados, reduzem retrabalho e aceleram a tomada de decisão.  
 
-###
+- Experiência em ambientes ágeis (Scrum)  
+- Nuvens: **GCP**, **AWS**, **Snowflake**  
+- Foco em dados confiáveis e insights acionáveis  
 
-<p align="left">Profissional de dados com 4+ anos em instituições financeiras, fintechs e setor público, unindo contabilidade, backoffice e análise de dados. Crio pipelines de ETL/ELT em Python/SQL, modelos analíticos e dashboards de BI que elevam a qualidade dos dados, reduzem retrabalho e aceleram a tomada de decisão. Forte atuação em ambientes ágeis (Scrum) e nuvens GCP, AWS e Snowflake.</p>
+---
 
-###
-
-<h2 align="left">Linguagens e ferramentas</h2>
-
-###
+## ⚙️ Linguagens e ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
 </div>
 
-###
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)  
+- [GitHub](https://github.com/seu-usuario)
+- [Portifólio Power BI](https://sites.google.com/view/victormoraisp/p%C3%A1gina-inicial)
+- E-mail: victor_morais@yahoo.com.br
+

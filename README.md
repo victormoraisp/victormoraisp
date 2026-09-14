@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Victor
 
-<p align="left">Analista de Dados | Belo Horizonte/MG | 4+ anos de experiência em instituições financeiras, fintechs e setor público</p>
+<p align="left">Analista de Dados | Belo Horizonte/MG | 5+ anos de experiência em instituições financeiras, fintechs e setor público</p>
 
 ---
 
